@@ -8,4 +8,5 @@ Its functions:
 4) Brutforce Ftp
 5) Brutforse SSh
 6) Brutforse mail Accounts
-# Donate BTC: 1K96gLXbmgRhE7DsU33HFBuvohDgei5Z22
+This Script Coded By Pr0x13
+My PSN iD = Parsa36704
